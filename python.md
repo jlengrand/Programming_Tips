@@ -7,7 +7,7 @@ blah = 1
 blah_name = [ k for k , v in locals (). iteritems () if v is blah ][ 0 ]
 ```
 
- WARNING : Not very clever however, as variables in Python may have more that one name ! Use with caution!
+ __**WARNING :** Not very clever however, as variables in Python may have more that one name ! Use with caution!__
 
 ## Replace a part of a table [Numpy]:
 
