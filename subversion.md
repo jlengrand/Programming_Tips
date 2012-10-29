@@ -12,6 +12,7 @@ $ svn cp trunk -> new_branch
 ```bash
 $ svn update
 ```
+
 __**NOTE:** The command is an update and not a commit, as this is the server who performed the operation!__
 
 You’re done!
